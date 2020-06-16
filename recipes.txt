@@ -6,3 +6,5 @@ jollof
 beans
 afang
 fried rice
+yam
+garri
